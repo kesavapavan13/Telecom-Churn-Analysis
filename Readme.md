@@ -1,5 +1,6 @@
 📊 Telecom Customer Churn Analysis — Power BI Dashboard
-<div style="border:1px solid #d0d7de; border-radius:10px; padding:18px; margin-bottom:18px;">
+
+<div style="border:10px solid #d0d7de; border-radius:10px; padding:18px; margin-bottom:18px;">
 📌 Project Overview
 
 Customer churn is one of the most critical challenges in the telecom industry.
